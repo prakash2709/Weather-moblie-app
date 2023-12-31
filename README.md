@@ -2,9 +2,10 @@ Developed mobile weather application, developed using HTML and CSS, empowers use
 Designed for on-the-go convenience, our app equips users with the information they need to make informed decisions for their day-to-day activities,
 ensuring they stay prepared and ahead of changing weather conditions.
 
-![image](https://github.com/prakash2709/Weather-moblie-app/assets/96177649/6f0e4efe-17a1-4ee6-b165-48f7a410e412)
+<img width="960" alt="image" src="https://github.com/prakash2709/Weather-moblie-app/assets/96177649/d5173677-b65b-4df3-bbd8-fd876556b716">
 
-![image](https://github.com/prakash2709/Weather-moblie-app/assets/96177649/dfbf5857-2a94-47c9-9da8-0f0c8fb444c0)
 
-![image](https://github.com/prakash2709/Weather-moblie-app/assets/96177649/c075a1f3-1c3b-4c2f-ad4f-d1719f07188a)
+<img width="960" alt="image" src="https://github.com/prakash2709/Weather-moblie-app/assets/96177649/443ac3ed-b55e-457d-aac4-14f3ff51c883">
 
+
+<img width="960" alt="image" src="https://github.com/prakash2709/Weather-moblie-app/assets/96177649/1cdb2073-e2c2-46a1-9642-90c8cf06d4c8">
